@@ -341,14 +341,13 @@ We welcome discussions and contributions to RecursiveMAS! If you would like to s
 
 ## 📚 Citation
 ```bibtex
-@misc{recursivemas,
-      title={Recursive Multi-Agent Systems},
-      author={Xiyuan Yang and Jiaru Zou and Rui Pan and Ruizhong Qiu and Pan Lu and Shizhe Diao and Jindong Jiang and Hanghang Tong and Tong Zhang and Markus J. Buehler and Jingrui He and James Zou},
-      year={2026},
-      eprint={2604.25917},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2604.25917},
+@inproceedings{
+  recursivemas2026,
+  title={Recursive Multi-Agent Systems},
+  author={Jiaru Zou and Rui Pan and Ruizhong Qiu and Pan Lu and Shizhe Diao and Jindong Jiang and Hanghang Tong and Tong Zhang and Markus J. Buehler and Jingrui He and James Zou},
+  booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+  year={2026},
+  url={https://openreview.net/forum?id=ML0KFwGcPG}
 }
 ```
  
