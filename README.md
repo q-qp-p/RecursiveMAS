@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-Scaling agent collaboration through latent-space recursion.
+Scaling Agent Collaboration through Recurrent Depth in Latent Space
 </h3>
 
 <p align="center">
